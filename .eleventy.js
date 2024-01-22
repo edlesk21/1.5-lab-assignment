@@ -1,5 +1,5 @@
 module.exports = function(eleventyConfig) {
     eleventyConfig.addPassthroughCopy("screen.css");
-    eleventyConfig.addPassthroughCopy("images");
-    eleventyConfig.addPassthroughCopy("styles");
+    eleventyConfig.addPassthroughCopy("moon.png");
+    eleventyConfig.addPassthroughCopy("earth.png");
 };
