@@ -17,3 +17,9 @@ p{
     padding-right: 150px;
     color: #ffffff;
 }
+
+#earth{
+    margin-left: 100px;
+    margin-right: 10px;
+    display: flex;
+}
